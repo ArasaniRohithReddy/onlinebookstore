@@ -140,8 +140,8 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
 
-                                                                                                        Project Contributor<br/>
-                                                                                                         <b>Arasani Rohith Reddy</b>
+Project Contributor<br/>
+<b>Arasani Rohith Reddy</b>
 
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+Project Leader<br/>
+<b>Shashi Raj</b>
